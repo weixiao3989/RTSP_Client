@@ -7,4 +7,4 @@
 測試平台 : Linux - Ubuntu 18.04
 編譯 : gcc
 
-## Build code please refer Makefile add folder : bin, include, obj ##
+## Build code please refer Makefile, need add folder : bin, include, obj ##
